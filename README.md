@@ -18,7 +18,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-chandru-t31?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
 
@@ -83,4 +83,4 @@
 - ✅ Crack software developer interviews
 
 ---
-⭐ From Chandru
+⭐ Thanks for visiting my profile! 🙌  
