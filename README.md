@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi there 👋 It's me Chandru
 
-<!--
-**mrchandrut-coder/Mrchandrut-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer 🚀
 
-Here are some ideas to get you started:
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Engineering Student from Tamil Nadu
+- 💻 Passionate about Software Development and AI
+- 🌱 Currently learning:
+  - Data Structures & Algorithms
+  - Web Development
+  - Git & GitHub
+  - AI and LLM Basics
+- 🔭 Building projects to improve my coding skills
+- ⚡ Fun fact: I enjoy learning technology through practical projects
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+
+---
+
+# 💻 Languages and Technologies
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/google-firebase-console.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
+
+---
+
+# 🛠 IDE & Tools
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/notion--v1.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/google-firebase-console.png"/>
+
+---
+
+# 💻 Workspace
+
+<img height="30" src="https://img.shields.io/badge/Laptop-Development-blue?style=for-the-badge"/>
+<img height="30" src="https://img.shields.io/badge/OS-Windows-success?style=for-the-badge"/>
+<img height="30" src="https://img.shields.io/badge/Focus-AI%20%26%20Development-orange?style=for-the-badge"/>
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+# 🚀 Goals for 2026
+
+- ✅ Improve problem solving skills
+- ✅ Build real-world projects
+- ✅ Learn full stack development
+- ✅ Contribute to open source
+- ✅ Crack software developer interviews
+
+---
+⭐ From Chandru
