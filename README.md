@@ -1,6 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=%20Mr.Chandru&fontSize=55&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=55&animation=twinkling"/>
 
 # Hi there 👋 It's me Chandru
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=timeGradient&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%F0%9F%91%8B+Hi,+I'm+Chandru;Aspiring+Software+Engineer;DSA+%E2%80%A2+Full-Stack+Development+%E2%80%A2+Cloud+Computing;Building+Modern+%26+User-Friendly+Applications;Open+Source+%E2%80%A2+Continuous+Learning"
+    alt="Typing SVG"
+  />
+</p>
 
 ### Aspiring Software Developer 🚀
 
