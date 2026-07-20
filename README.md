@@ -65,7 +65,7 @@
 # 💻 Workspace
 
 <img height="30" src="https://img.shields.io/badge/Laptop-Development-blue?style=for-the-badge"/>
-<img height="30" src="https://img.shields.io/badge/OS-Windows-success?style=for-the-badge"/>
+<img height="30" src="https://img.shields.io/badge/OS-Windows%20%7C%20macOS-success?style=for-the-badge"/>
 <img height="30" src="https://img.shields.io/badge/Focus-AI%20%26%20Development-orange?style=for-the-badge"/>
 
 ---
