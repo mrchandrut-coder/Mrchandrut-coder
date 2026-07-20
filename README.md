@@ -3,7 +3,7 @@
 # Hi there 👋 It's me Chandru
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=timeGradient&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%F0%9F%91%8B+Hi,+I'm+Chandru;Aspiring+Software+Engineer;DSA+%E2%80%A2+Full-Stack+Development+%E2%80%A2+Cloud+Computing;Building+Modern+%26+User-Friendly+Applications;Open+Source+%E2%80%A2+Continuous+Learning"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=timeGradient&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%F0%9F%91%8B+Hi,+I'm+Chandru;%F0%9F%8E%93+BCA+Student;%F0%9F%92%BB+Aspiring+Software+Engineer;%F0%9F%8C%90+Full-Stack+Development+%E2%80%A2+DSA+%E2%80%A2+AI;%F0%9F%9A%80+Building+Modern+%26+Scalable+Applications;%E2%9C%A8+Passionate+About+Learning+%26+Innovation"
     alt="Typing SVG"
   />
 </p>
