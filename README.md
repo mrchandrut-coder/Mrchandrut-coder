@@ -25,6 +25,15 @@
 - ⚡ Fun fact: I enjoy learning technology through practical projects.
 
 ---
+## 🥇 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/TChandru/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+---
 
 ## 🌐 Connect with Me
 
