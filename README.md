@@ -47,18 +47,11 @@
 
 # 🏗️ Languages & Technologies
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
-<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50"/>
-<img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,react,mysql,mongodb,nodejs,docker&perline=5" />
+  <br>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" />
+</p>
 
 ---
 
