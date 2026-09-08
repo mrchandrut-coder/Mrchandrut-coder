@@ -1,5 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Mr.Chandru&fontSize=55&fontAlign=50&fontAlignY=35&desc=BCA%20Student%20%E2%80%A2%20Aspiring%20Full%20Stack%20Developer&descAlign=50&descAlignY=55&animation=twinkling"/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrchandrut-coder/mrchandrut-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrchandrut-coder/mrchandrut-coder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrchandrut-coder/mrchandrut-coder/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 # Hi there 👋 It's me Chandru
 <p align="center">
   <img
